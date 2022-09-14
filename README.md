@@ -22,12 +22,8 @@
 #### Cool Badges
 
 <a href="https://github.com/AndreSacilotto">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreSacilotto&layout=demo&langs_count=8&hide_border=true&hide=php,css, html,scss&theme=onedark" />
-
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=AndreSacilotto&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=onedark" />
-
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=AndreSacilotto&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=onedark" />
 </a>
 <a href="https://github.com/AndreSacilotto">
-	<img align="right"src="https://github-readme-streak-stats.herokuapp.com/?user=AndreSacilotto&hide_border=true&theme=onedark" />
+	<img align="left"src="https://github-readme-streak-stats.herokuapp.com/?user=AndreSacilotto&hide_border=true&theme=onedark" />
 </a>
